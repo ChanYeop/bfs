@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\cy960\source\repos\bfs\bfs\main.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\cy960\source\repos\bfs\bfs\main.cpp(17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\cy960\source\repos\bfs\bfs\main.cpp(28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\cy960\source\repos\bfs\bfs\main.cpp(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  bfs.vcxproj -> C:\Users\cy960\source\repos\bfs\Debug\bfs.exe
